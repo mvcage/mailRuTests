@@ -1,0 +1,11 @@
+C:\Users\PC\documents\visual studio 2015\Projects\MailRuTests\MailRuTests\bin\Debug\MailRuTests.dll
+C:\Users\PC\documents\visual studio 2015\Projects\MailRuTests\MailRuTests\bin\Debug\MailRuTests.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\MailRuTests\MailRuTests\bin\Debug\nunit.framework.dll
+C:\Users\PC\documents\visual studio 2015\Projects\MailRuTests\MailRuTests\bin\Debug\WebDriver.dll
+C:\Users\PC\documents\visual studio 2015\Projects\MailRuTests\MailRuTests\bin\Debug\WebDriver.Support.dll
+C:\Users\PC\documents\visual studio 2015\Projects\MailRuTests\MailRuTests\bin\Debug\nunit.framework.xml
+C:\Users\PC\documents\visual studio 2015\Projects\MailRuTests\MailRuTests\bin\Debug\WebDriver.xml
+C:\Users\PC\documents\visual studio 2015\Projects\MailRuTests\MailRuTests\bin\Debug\WebDriver.Support.xml
+C:\Users\PC\documents\visual studio 2015\Projects\MailRuTests\MailRuTests\obj\Debug\MailRuTests.dll
+C:\Users\PC\documents\visual studio 2015\Projects\MailRuTests\MailRuTests\obj\Debug\MailRuTests.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\MailRuTests\MailRuTests\obj\Debug\MailRuTests.csprojResolveAssemblyReference.cache
